@@ -27,3 +27,8 @@ header {
         text-decoration: none;
         color: #96c1c5;
     }
+
+    .main {
+        background-color: #96c1c5 ;
+        display: flex;
+    }
