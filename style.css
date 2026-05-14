@@ -17,3 +17,9 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+.cabecalho {
+    height: 160px;
+    padding: 20px;
+    background-color: #6bb1ad;
+}
