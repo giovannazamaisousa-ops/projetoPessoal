@@ -9,3 +9,11 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+header {
+    background-color: #694a47;
+    color: blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
